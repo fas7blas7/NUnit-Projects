@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAUCE_DEMO_SWAGLABS", "SAUCE_DEMO_SWAGLABS.csproj", "{22505A02-B000-4219-9FA3-B1581E7BA362}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22505A02-B000-4219-9FA3-B1581E7BA362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22505A02-B000-4219-9FA3-B1581E7BA362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22505A02-B000-4219-9FA3-B1581E7BA362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22505A02-B000-4219-9FA3-B1581E7BA362}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C733B512-B38E-454D-8C09-2FA444009862}
+	EndGlobalSection
+EndGlobal
