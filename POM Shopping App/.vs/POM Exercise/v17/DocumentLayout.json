@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\USB Drive Martin\\QA\\Front End Test Automation EXAMS INCLUDED\\SELENIUM PROJECTS\\POM Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FE670B-C466-4FEE-9F3C-EFA0AEA22856}|POM Exercise.csproj|d:\\usb drive martin\\qa\\front end test automation exams included\\selenium projects\\pom exercise\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FE670B-C466-4FEE-9F3C-EFA0AEA22856}|POM Exercise.csproj|solutionrelative:pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FE670B-C466-4FEE-9F3C-EFA0AEA22856}|POM Exercise.csproj|d:\\usb drive martin\\qa\\front end test automation exams included\\selenium projects\\pom exercise\\tests\\carttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FE670B-C466-4FEE-9F3C-EFA0AEA22856}|POM Exercise.csproj|solutionrelative:tests\\carttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FE670B-C466-4FEE-9F3C-EFA0AEA22856}|POM Exercise.csproj|d:\\usb drive martin\\qa\\front end test automation exams included\\selenium projects\\pom exercise\\tests\\checkouttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FE670B-C466-4FEE-9F3C-EFA0AEA22856}|POM Exercise.csproj|solutionrelative:tests\\checkouttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FE670B-C466-4FEE-9F3C-EFA0AEA22856}|POM Exercise.csproj|d:\\usb drive martin\\qa\\front end test automation exams included\\selenium projects\\pom exercise\\tests\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FE670B-C466-4FEE-9F3C-EFA0AEA22856}|POM Exercise.csproj|solutionrelative:tests\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FE670B-C466-4FEE-9F3C-EFA0AEA22856}|POM Exercise.csproj|d:\\usb drive martin\\qa\\front end test automation exams included\\selenium projects\\pom exercise\\tests\\hiddenmenutests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FE670B-C466-4FEE-9F3C-EFA0AEA22856}|POM Exercise.csproj|solutionrelative:tests\\hiddenmenutests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FE670B-C466-4FEE-9F3C-EFA0AEA22856}|POM Exercise.csproj|d:\\usb drive martin\\qa\\front end test automation exams included\\selenium projects\\pom exercise\\tests\\inventorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FE670B-C466-4FEE-9F3C-EFA0AEA22856}|POM Exercise.csproj|solutionrelative:tests\\inventorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FE670B-C466-4FEE-9F3C-EFA0AEA22856}|POM Exercise.csproj|d:\\usb drive martin\\qa\\front end test automation exams included\\selenium projects\\pom exercise\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FE670B-C466-4FEE-9F3C-EFA0AEA22856}|POM Exercise.csproj|solutionrelative:pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FE670B-C466-4FEE-9F3C-EFA0AEA22856}|POM Exercise.csproj|d:\\usb drive martin\\qa\\front end test automation exams included\\selenium projects\\pom exercise\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FE670B-C466-4FEE-9F3C-EFA0AEA22856}|POM Exercise.csproj|solutionrelative:tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FE670B-C466-4FEE-9F3C-EFA0AEA22856}|POM Exercise.csproj|d:\\usb drive martin\\qa\\front end test automation exams included\\selenium projects\\pom exercise\\pages\\hiddenmenupage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FE670B-C466-4FEE-9F3C-EFA0AEA22856}|POM Exercise.csproj|solutionrelative:pages\\hiddenmenupage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FE670B-C466-4FEE-9F3C-EFA0AEA22856}|POM Exercise.csproj|d:\\usb drive martin\\qa\\front end test automation exams included\\selenium projects\\pom exercise\\pages\\checkoutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FE670B-C466-4FEE-9F3C-EFA0AEA22856}|POM Exercise.csproj|solutionrelative:pages\\checkoutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FE670B-C466-4FEE-9F3C-EFA0AEA22856}|POM Exercise.csproj|d:\\usb drive martin\\qa\\front end test automation exams included\\selenium projects\\pom exercise\\pages\\cartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FE670B-C466-4FEE-9F3C-EFA0AEA22856}|POM Exercise.csproj|solutionrelative:pages\\cartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FE670B-C466-4FEE-9F3C-EFA0AEA22856}|POM Exercise.csproj|d:\\usb drive martin\\qa\\front end test automation exams included\\selenium projects\\pom exercise\\pages\\inventorypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FE670B-C466-4FEE-9F3C-EFA0AEA22856}|POM Exercise.csproj|solutionrelative:pages\\inventorypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartTests.cs",
+              "DocumentMoniker": "D:\\USB Drive Martin\\QA\\Front End Test Automation EXAMS INCLUDED\\SELENIUM PROJECTS\\POM Exercise\\Tests\\CartTests.cs",
+              "RelativeDocumentMoniker": "Tests\\CartTests.cs",
+              "ToolTip": "D:\\USB Drive Martin\\QA\\Front End Test Automation EXAMS INCLUDED\\SELENIUM PROJECTS\\POM Exercise\\Tests\\CartTests.cs",
+              "RelativeToolTip": "Tests\\CartTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T11:41:05.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CheckoutTests.cs",
+              "DocumentMoniker": "D:\\USB Drive Martin\\QA\\Front End Test Automation EXAMS INCLUDED\\SELENIUM PROJECTS\\POM Exercise\\Tests\\CheckoutTests.cs",
+              "RelativeDocumentMoniker": "Tests\\CheckoutTests.cs",
+              "ToolTip": "D:\\USB Drive Martin\\QA\\Front End Test Automation EXAMS INCLUDED\\SELENIUM PROJECTS\\POM Exercise\\Tests\\CheckoutTests.cs",
+              "RelativeToolTip": "Tests\\CheckoutTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T11:41:04.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginTests.cs",
+              "DocumentMoniker": "D:\\USB Drive Martin\\QA\\Front End Test Automation EXAMS INCLUDED\\SELENIUM PROJECTS\\POM Exercise\\Tests\\LoginTests.cs",
+              "RelativeDocumentMoniker": "Tests\\LoginTests.cs",
+              "ToolTip": "D:\\USB Drive Martin\\QA\\Front End Test Automation EXAMS INCLUDED\\SELENIUM PROJECTS\\POM Exercise\\Tests\\LoginTests.cs",
+              "RelativeToolTip": "Tests\\LoginTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T11:41:02.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "D:\\USB Drive Martin\\QA\\Front End Test Automation EXAMS INCLUDED\\SELENIUM PROJECTS\\POM Exercise\\Pages\\BasePage.cs",
+              "RelativeDocumentMoniker": "Pages\\BasePage.cs",
+              "ToolTip": "D:\\USB Drive Martin\\QA\\Front End Test Automation EXAMS INCLUDED\\SELENIUM PROJECTS\\POM Exercise\\Pages\\BasePage.cs",
+              "RelativeToolTip": "Pages\\BasePage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T11:40:47.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HiddenMenuTests.cs",
+              "DocumentMoniker": "D:\\USB Drive Martin\\QA\\Front End Test Automation EXAMS INCLUDED\\SELENIUM PROJECTS\\POM Exercise\\Tests\\HiddenMenuTests.cs",
+              "RelativeDocumentMoniker": "Tests\\HiddenMenuTests.cs",
+              "ToolTip": "D:\\USB Drive Martin\\QA\\Front End Test Automation EXAMS INCLUDED\\SELENIUM PROJECTS\\POM Exercise\\Tests\\HiddenMenuTests.cs",
+              "RelativeToolTip": "Tests\\HiddenMenuTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T15:47:31.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InventoryTests.cs",
+              "DocumentMoniker": "D:\\USB Drive Martin\\QA\\Front End Test Automation EXAMS INCLUDED\\SELENIUM PROJECTS\\POM Exercise\\Tests\\InventoryTests.cs",
+              "RelativeDocumentMoniker": "Tests\\InventoryTests.cs",
+              "ToolTip": "D:\\USB Drive Martin\\QA\\Front End Test Automation EXAMS INCLUDED\\SELENIUM PROJECTS\\POM Exercise\\Tests\\InventoryTests.cs",
+              "RelativeToolTip": "Tests\\InventoryTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T15:47:00.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "D:\\USB Drive Martin\\QA\\Front End Test Automation EXAMS INCLUDED\\SELENIUM PROJECTS\\POM Exercise\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "Pages\\LoginPage.cs",
+              "ToolTip": "D:\\USB Drive Martin\\QA\\Front End Test Automation EXAMS INCLUDED\\SELENIUM PROJECTS\\POM Exercise\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "Pages\\LoginPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T15:45:09.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseTest.cs",
+              "DocumentMoniker": "D:\\USB Drive Martin\\QA\\Front End Test Automation EXAMS INCLUDED\\SELENIUM PROJECTS\\POM Exercise\\Tests\\BaseTest.cs",
+              "RelativeDocumentMoniker": "Tests\\BaseTest.cs",
+              "ToolTip": "D:\\USB Drive Martin\\QA\\Front End Test Automation EXAMS INCLUDED\\SELENIUM PROJECTS\\POM Exercise\\Tests\\BaseTest.cs",
+              "RelativeToolTip": "Tests\\BaseTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T15:46:26.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HiddenMenuPage.cs",
+              "DocumentMoniker": "D:\\USB Drive Martin\\QA\\Front End Test Automation EXAMS INCLUDED\\SELENIUM PROJECTS\\POM Exercise\\Pages\\HiddenMenuPage.cs",
+              "RelativeDocumentMoniker": "Pages\\HiddenMenuPage.cs",
+              "ToolTip": "D:\\USB Drive Martin\\QA\\Front End Test Automation EXAMS INCLUDED\\SELENIUM PROJECTS\\POM Exercise\\Pages\\HiddenMenuPage.cs",
+              "RelativeToolTip": "Pages\\HiddenMenuPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T15:46:15.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CheckoutPage.cs",
+              "DocumentMoniker": "D:\\USB Drive Martin\\QA\\Front End Test Automation EXAMS INCLUDED\\SELENIUM PROJECTS\\POM Exercise\\Pages\\CheckoutPage.cs",
+              "RelativeDocumentMoniker": "Pages\\CheckoutPage.cs",
+              "ToolTip": "D:\\USB Drive Martin\\QA\\Front End Test Automation EXAMS INCLUDED\\SELENIUM PROJECTS\\POM Exercise\\Pages\\CheckoutPage.cs",
+              "RelativeToolTip": "Pages\\CheckoutPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T15:46:01.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CartPage.cs",
+              "DocumentMoniker": "D:\\USB Drive Martin\\QA\\Front End Test Automation EXAMS INCLUDED\\SELENIUM PROJECTS\\POM Exercise\\Pages\\CartPage.cs",
+              "RelativeDocumentMoniker": "Pages\\CartPage.cs",
+              "ToolTip": "D:\\USB Drive Martin\\QA\\Front End Test Automation EXAMS INCLUDED\\SELENIUM PROJECTS\\POM Exercise\\Pages\\CartPage.cs",
+              "RelativeToolTip": "Pages\\CartPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T15:45:38.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InventoryPage.cs",
+              "DocumentMoniker": "D:\\USB Drive Martin\\QA\\Front End Test Automation EXAMS INCLUDED\\SELENIUM PROJECTS\\POM Exercise\\Pages\\InventoryPage.cs",
+              "RelativeDocumentMoniker": "Pages\\InventoryPage.cs",
+              "ToolTip": "D:\\USB Drive Martin\\QA\\Front End Test Automation EXAMS INCLUDED\\SELENIUM PROJECTS\\POM Exercise\\Pages\\InventoryPage.cs",
+              "RelativeToolTip": "Pages\\InventoryPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T15:45:22.697Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 144,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 279,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
